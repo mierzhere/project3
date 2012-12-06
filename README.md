@@ -1,4 +1,4 @@
-project3
-========
+gd220-Starter-HTML
+==================
 
-iuhijl
+Starter HMTL &amp; CSS Files for MICA Graphic Design
